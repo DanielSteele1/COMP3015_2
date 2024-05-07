@@ -5,8 +5,7 @@ I also updated some texures to look more presentable, and added some new models.
 
 All external libraries are included in C:\users\Public\OpenGL. To run, open up ProjectTemplate.sln attached via GitHub, and hit run.
 
-![Uploading image.png…]()
-
+![Image with nightvision on](image-1.png)
 
 ------------------- ENVIRONMENT USED -------------------------
 
