@@ -31,4 +31,4 @@ All models are made solely by myself, using Blender.
 
 Github: https://github.com/DanielSteele1/COMP3015_2
 
-YouTube demo vid:
+YouTube demo vid: https://youtu.be/oQBkmuJCthI
